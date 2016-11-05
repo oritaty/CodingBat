@@ -6,9 +6,6 @@ import java.util.*;
 
 public class String2 {
 
-	public static void main(String[] args) {
-	}
-
 	/*
 	 * doubleChar("The") → "TThhee"
 	 * doubleChar("AAbb") → "AAAAbbbb"
